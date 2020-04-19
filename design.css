@@ -1,0 +1,203 @@
+.container
+{
+	width: 1050px;
+	border-bottom: 10px solid green;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin: 0 auto;
+	padding: 0;
+
+}
+h1 a
+{
+	color:black;
+	font-size: 50px;
+	font-family: "Lato";
+	text-decoration: none;
+	font-weight: 400px;
+	padding: 10px;
+
+}
+.header
+{
+	height: 100px;
+	padding: 10px 0;}
+.brand
+{
+	float: left;
+}
+.searchbox
+{
+float: right;
+background-color: #eee;
+outline: 1px solid green;
+width: 400px;
+height: 50px;
+padding: 20px 20px 0 20px;
+margin-top:20px;
+}
+.submit
+{
+	float:right;
+	color:white;
+	width:100px;
+	font-size:25px;
+	background-color:green;
+	border:none;
+padding: 5px;
+outline: none;
+cursor: pointer;
+}
+
+.text
+{
+	float: left;width: 200px;height: 20px;
+	border:none;
+	color:black;
+	font-size: 25px;
+	background:transparent;
+	outline: none;
+	border-bottom: 1px solid black;
+
+}
+.clear
+{
+	clear: both;
+}
+ul
+{
+	list-style: none;
+
+}
+.menu-bar
+{
+	background-color:green;
+	
+	height:60px;
+	margin-top:30px;
+}
+.menu-bar ul li
+{
+	float: left;
+	display: inline-block;
+	padding: 20px;
+height: 20px;
+
+
+}
+.menu-bar a
+{
+	text-decoration: none;
+	color:white;
+	font-size:20px;
+	text-align: center;
+
+}
+.menu-bar a:hover
+{
+	background-color: white;
+	color:black;
+	padding: 10px;
+	border:1px solid green;
+	border-radius:50px;
+}
+.intro
+{
+	width:1000px;
+	height:200px;
+	border-top:10px solid green;
+	padding: 20px;
+	margin-top:20px;
+background-color:#eee;
+
+
+}
+.intro h2
+{
+	font-size:40px;
+	margin-left:20px;
+}
+p{
+	font-size:20px;
+	font-weight:400px;
+	font-family: "Lato";
+}
+#sidebar
+{
+	width:400px;
+	height:500px;
+	border-top:10px solid green;
+	border-bottom:10px solid black;
+	margin-bottom:20px;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+	background-color: #eee;
+	display: inline-block;
+	padding:20px;
+	margin-top:10px;
+	border
+}
+#sidebar h3
+{
+	font-size:40px;
+	color: green;
+	text-shadow: 0 0 0 black;
+}
+.side-left
+{
+	float: left;
+}
+.side-left a
+{
+	text-decoration: none;
+	color:black;
+	font-size:20px;
+
+}
+.side-left a:hover
+{
+cursor: pointer;
+font-size:21px;
+color:green;
+font-weight: bold;
+
+}
+.side-right
+{
+	float: right;
+}
+
+.side-right a{
+
+text-decoration: none;
+	color:black;
+	font-size:25px;
+line-height:1.4;
+
+}
+
+.side-right a:hover
+{
+cursor: pointer;
+font-weight:bold;
+font-size:21px;
+color:green;
+
+}
+.footer
+{
+	border-top:10px solid green;
+	border-top-right-radius:50px;
+	border-top-left-radius:50px;
+	padding:20px;
+	background-color: #eee;
+
+}
+.me
+{
+	float: right;
+	text-decoration: none;
+	color:black;
+	font-size:20px;
+	font-weight: bold;
+}
